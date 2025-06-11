@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Iam Hilmi Mithwa</h1>
-<h3 align="center">UI/UX Designing and Frontend developing enthusiast. Currently learning on Data visualization and mobile development</h3>
+<h3 align="center">UI/UX Designing and Frontend developing enthusiast. Currently learning on Data visualization and mobile development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilmimithwa&label=Profile%20views&color=0e75b6&style=flat" alt="hilmimithwa" /> </p>
 
