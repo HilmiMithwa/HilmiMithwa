@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Developer, Currently Deepening on Machine Learning and Data Analyst. Backend Enthusiast.
+Fullstack Developer, Currently Deepening on Machine Learning and Data Analyst. Backend Enthusiast. Searching for lomba and competition.
 
 
 # 💻 Tech Stack:
