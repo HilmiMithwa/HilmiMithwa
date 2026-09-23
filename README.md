@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Deepening on Machine Learning and Data Analyst. Backend Enthusiast. Searching for lomba and competition.
+Currently Deepening on Machine Learning and Data Analyst. Frontend Enthusiast. Searching for lomba and competition.
 
 
 ## 🌐 Socials:
